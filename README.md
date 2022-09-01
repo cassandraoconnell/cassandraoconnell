@@ -1,4 +1,6 @@
-### Hi there 👋
+I’m a software engineer focused on well-architected and performant systems that are just as reliable as they are engaging. I love a technical challenge and thrive solving unique software problems. My code is clean and maintainable and I make sure to write coherent tests to accompany it. ⚡
+
+I love Rust, Typescript, React, and WebAssembly. I especially love putting all those things together!
 
 <!--
 **cassandraoconnell/cassandraoconnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
