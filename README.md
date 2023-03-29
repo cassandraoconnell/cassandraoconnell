@@ -1,4 +1,6 @@
-I’m a software engineer focused on well-architected and performance-optimized systems that are just as reliable as they are engaging. I love a technical challenge and thrive solving unique software problems. My code is clean and maintainable and I make sure to write coherent tests to accompany it. ⚡
+I'm a software engineer focused on building reliable and engaging web applications.
+
+I love taking on new technical challenges and thrive on solving unique software problems. I architect applications to be built on a solid foundation, ensuring they run smoothly at scale while allowing for quick iteration. My expertise lies in front-end software architecture and performance optimization, but I have experience writing code across the stack.⚡
 
 I love Rust, Typescript, React, and WebAssembly. I especially love putting all those things together!
 
